@@ -57,13 +57,10 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 <div align="center">
 
-<a href="https://github.com/Parth9s">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth9s&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parth9s&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
-</a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Parth9s&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Parth9s&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
 
 </div>
-
 ---
 
 ### 🔥 Contribution Streak
