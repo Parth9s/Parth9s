@@ -67,9 +67,9 @@ Experienced in team development using **GitHub**, pull requests, code reviews, a
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Parth9s&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Parth9s)](https://git.io/streak-stats)
 </div>
 
 --- 
