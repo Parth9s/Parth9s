@@ -30,9 +30,9 @@ Currently sharpening both sides of that: the engineering to build it, and the ju
 <p align="left">
 
   <!-- add your links here, e.g.: -->
-  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="32"></a> -->
-  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="32"></a> -->
-  <!-- <a href="YOUR_GITHUB_URL"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32"></a> -->
-  <!-- <a href="YOUR_TWITTER_URL"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="32"></a> -->
+  <!-- <a href="https://www.linkedin.com/in/parth-savaliya-33398723a"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="32"></a> -->
+  <!-- <a href="mailto:parthsavaliya1111@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="32"></a> -->
+  <!-- <a href="https://github.com/Parth9s"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32"></a> -->
+  <!-- <a href="https://x.com/Operotools"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="32"></a> -->
 
 </p>
