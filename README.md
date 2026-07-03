@@ -25,7 +25,7 @@ Currently focused on turning curiosity into capability — one project, one skil
 
 </td>
 <td width="35% align="center" valign="middle">
-  <img src="https://images.unsplash.com/photo-1729948299530-a85d008b6101?fm=jpg&q=80&w=800&auto=format&fit=crop" width="100%"/>
+  <img src="https://i.pinimg.com/736x/1a/07/f6/1a07f6ecc8c09b702e417d6dd1faee7e.jpg" width="100%"/>
 </td>
 </tr>
 </table>
