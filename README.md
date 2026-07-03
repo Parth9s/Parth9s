@@ -1,4 +1,4 @@
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td width="65%" valign="top">
 
@@ -24,7 +24,7 @@ Currently focused on turning curiosity into capability — one project, one skil
 </p>
 
 </td>
-<td width="35% align="center" valign="middle">
+<td width="35%" align="center" valign="middle">
   <img src="https://i.pinimg.com/736x/1a/07/f6/1a07f6ecc8c09b702e417d6dd1faee7e.jpg" width="100%"/>
 </td>
 </tr>
