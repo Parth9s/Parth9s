@@ -17,10 +17,10 @@ Currently focused on turning curiosity into capability — one project, one skil
 **Connect:**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/parth-savaliya-33398723a"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="32"></a>
   <a href="mailto:parthsavaliya1111@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="32"></a>
-  <a href="https://github.com/Parth9s"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32"></a>
+  <a href="https://www.linkedin.com/in/parth-savaliya-33398723a"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="32"</a>
   <a href="https://x.com/Operotools"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" height="32"></a>
+  <a href="https://github.com/Parth9s"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32"></a>
 </p>
 
 </td>
